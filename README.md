@@ -3,7 +3,7 @@
 ## Text Editor || IDE
 
 1. [Visual Studio Code](text-editor/1.visual-studio-code.md)
-1. [Android Studio]()
+1. [Android Studio](text-editor/2.android-studio.md)
 
 ## Compiler || Interpreter
 
