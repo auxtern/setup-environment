@@ -26,3 +26,4 @@
 # Windows
 
 1. [Hyper-V](tutorial/windows/win-hyper-v.md)
+1. [Path Environment](tutorial/windows/path-environment.md)
