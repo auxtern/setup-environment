@@ -9,7 +9,7 @@
 
 1. [Haskell](compiler-interpreter/1.haskell.md)
 1. [Kotlin (Android Studio)](compiler-interpreter/2.as-kotlin.md)
-1. [Python]()
+1. [Python](compiler-interpreter/3.python.md)
 
 ## Archive
 
