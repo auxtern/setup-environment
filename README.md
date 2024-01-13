@@ -8,11 +8,16 @@
 ## Compiler || Interpreter
 
 1. [Haskell](compiler-interpreter/1.haskell.md)
-1. [Kotlin (Android Studio)]()
+1. [Kotlin (Android Studio)](compiler-interpreter/2.as-kotlin.md)
+1. [Python]()
 
 ## Archive
 
 1. [7zip](archive/1.7zip.md)
+
+## Container
+
+1. [Docker](container/1.docker.md)
 
 
 
