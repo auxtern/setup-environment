@@ -18,6 +18,10 @@
 
 1. [MongoDB](database/1.mongodb.md)
 
+## Emulator
+
+1. [Memu (Android)](emulator/memu.md)
+
 ## Framework
 
 1. [Flutter](framework/flutter.md)
@@ -45,6 +49,7 @@
 1. [New Projects](tutorial/android-studio/as-new-projects.md)
 1. [Create Virtual Device](tutorial/android-studio/as-create-virtual-device.md)
 1. [Android Device USB Debugging](tutorial/android-studio/as-android-device-usb-debugging.md)
+1. [Android Emulator](tutorial/android-studio/android-emulator.md)
 
 ## Windows
 
