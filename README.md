@@ -9,6 +9,7 @@
 1. [Haskell](compiler-interpreter/1.haskell.md)
 2. [Kotlin (Android Studio)](compiler-interpreter/2.as-kotlin.md)
 3. [Python](compiler-interpreter/3.python.md)
+4. [MinGW](compiler-interpreter/mingw.md)
 
 ## Container
 
